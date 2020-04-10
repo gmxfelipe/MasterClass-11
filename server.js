@@ -11,7 +11,7 @@ http.createServer((req, res) => {
     const allowed = allowedFileTypes.find(item =>  item == extname)
 
     if(!allowed) return 
-    
+
     fs.readFile(
         filePath,
         (err, content) => {
@@ -20,4 +20,4 @@ http.createServer((req, res) => {
             res.end(content)
         }
     ) 
-}).listen(5000, () => console.log('Server on '))
+}).listen(3000, () => console.log('Server on '))
