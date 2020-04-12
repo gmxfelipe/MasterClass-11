@@ -10,7 +10,7 @@
 <img src="https://uploaddeimagens.com.br/images/002/585/329/original/master11.PNG?1586731178">
 </p>
 
- <p> Esse projeto foi desenvolvido um pouco de estudo da teoria e bastante prática, desenvolvendo algumas aplicações com Node puro, para conhecer os módulos nativos como os, fs, path, url, events, http e comportamentos do Node no geral como, por exemplo, o Event Loop.</p> 
+ <p> Esse projeto foi desenvolvido para um pouco de estudo da teoria e bastante prática, desenvolvendo algumas aplicações com Node puro, para conhecer os módulos nativos como os, fs, path, url, events, http e comportamentos do Node no geral como, por exemplo, o Event Loop.</p> 
  
 <P> As tecnologias usadas para o desenvolvimento desse projeto foram:</p>
 
